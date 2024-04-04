@@ -37,7 +37,7 @@ Also the web based instaloader is derived from the original python code
 
 found at https://instaloader.github.io/codesnippets.html#top-x-posts-of-user
 
-Basically https://instaloader.github.io is the documentation repository and instaloader can be used as command line for scarping instagram profiles
+Basically https://instaloader.github.io is the documentation repository and instaloader can be used as command line for scraping instagram profiles
 
 instaloader can be installed as command line as described at https://instaloader.github.io/installation.html
 
