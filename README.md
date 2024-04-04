@@ -9,3 +9,9 @@ Run the following command to start the Flask development server:
 python app.py
 
 Open a web browser and visit http://localhost:5000 to view the app
+
+The proxy list in the app.py 
+
+is taken from
+
+https://github.com/clarketm/proxy-list/blob/master/proxy-list-raw.txt
