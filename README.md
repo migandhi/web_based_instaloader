@@ -32,3 +32,9 @@ The proxy list in the app.py
 is taken from
 
 https://github.com/clarketm/proxy-list/blob/master/proxy-list-raw.txt
+
+Also the web based instaloader is derived from the original python code
+
+found at https://instaloader.github.io/codesnippets.html#top-x-posts-of-user
+
+Basically https://instaloader.github.io is the repository and instaloader can be used as command line for scarping instagram profiles
